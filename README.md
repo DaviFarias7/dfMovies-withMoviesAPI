@@ -4,4 +4,4 @@
 https://dfmovies.netlify.app/
 
 
-![dfMovies](https://user-images.githubusercontent.com/86566715/181992449-93fac563-d41c-4b19-8876-4c5d7a07fd5c.PNG)
+![Capturar](https://user-images.githubusercontent.com/86566715/184046253-80647624-b112-4c8b-9782-75e43799136c.PNG)
