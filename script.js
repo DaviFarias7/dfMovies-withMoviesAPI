@@ -30,7 +30,6 @@ function handler(e) {
                     newContent += `<legend class="app-movies-all__legend">`;
                     newContent += `<span class="app-movies-all__year">${data.Search[i].Year}</span>`;
                     newContent += `<h2 class="app-movies-all__title">${data.Search[i].Title}</h2>`;
-                    newContent += `<h2 class="app-movies-all__title">${data.Search[i].Genre}</h2>`;
                     newContent += `</legend>`;
                     newContent += `</li>`;
                 }
