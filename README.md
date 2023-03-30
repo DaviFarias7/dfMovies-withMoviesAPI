@@ -1,6 +1,8 @@
 # dfMovies-withMoviesAPI
 
+Projeto criado para trazer informações básicas de filmes através da busca por nome. A aplicação conseme a API OMDB (https://www.omdbapi.com/).
 
+Link da aplicação funcionando:
 https://dfmovies.netlify.app/
 
 
